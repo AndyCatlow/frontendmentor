@@ -60,6 +60,6 @@ I used grid with auto-fit columns to make the page responsive without media quer
 
 ## Author
 
-- Website - [Add your name here](https://www.andycatlow.dev)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/AndyCatlow)
-- Twitter - [@yourusername](https://www.twitter.com/CatlowAndy)
+- Website - [Andy Catlow](https://www.andycatlow.dev)
+- Frontend Mentor - [AndyCatlow](https://www.frontendmentor.io/profile/AndyCatlow)
+- Twitter - [@CatlowAndy](https://www.twitter.com/CatlowAndy)
