@@ -106,3 +106,16 @@ html {
   background-color: transparent;
   color: hsl(0, 0%, 95%);
 }
+
+.attribution {
+  background-color: black;
+  font-family: var(--ff-sanserif);
+  color: var(--clr-ntr-gray);
+  scroll-snap-align: end;
+  padding: 0.5em 1em;
+}
+
+.attribution a {
+  color: var(--clr-ntr-trans);
+  text-decoration: none;
+}
