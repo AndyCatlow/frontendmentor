@@ -26,8 +26,6 @@ html {
   place-content: center;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   max-width: 100vw;
-  flex-wrap: wrap;
-  border-radius: 10px;
 }
 
 .card {
