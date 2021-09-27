@@ -29,7 +29,7 @@
 
 .card {
   min-height: 100vh;
-  padding: 3em;
+  padding: 5em;
   margin: 0;
   display: flex;
   flex-direction: column;
@@ -79,6 +79,7 @@
 
 .card__button {
   background-color: var(--clr-ntr-gray);
+  border: 3px solid var(--clr-ntr-gray);
   color: var(--clr-prm-vdark);
   display: inline-block;
   max-width: max-content;
@@ -87,6 +88,7 @@
   text-decoration: none;
   font-family: var(--ff-sanserif);
   font-weight: 700;
+  transition: background-color 300ms ease-in-out, color 300ms ease-in-out;
 }
 
 .card__sedan .card__button {
@@ -97,4 +99,9 @@
 }
 .card__luxury .card__button {
   color: var(--clr-prm-vdark);
+}
+
+.card__button:hover {
+  background-color: transparent;
+  color: hsl(0, 0%, 95%);
 }
